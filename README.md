@@ -1,4 +1,4 @@
-# 🇮🇳 India General Elections 2024 – Power BI Dashboard & SQL Analysis
+# India General Elections 2024 – Power BI Dashboard & SQL Analysis
 
 This project presents an end-to-end data analysis and visualization of the **India General Elections 2024**, using raw CSV datasets and SQL logic to generate insights, and finally transforming the data into an interactive Power BI dashboard.
 
@@ -61,7 +61,7 @@ ORDER BY total_seats_won DESC;
 📌 All SQL queries were written, tested, and cross-validated with the Power BI dashboard output.
 
 
-##🧩 Tools & Skills Used
+## 🧩 Tools & Skills Used
 Power BI (Data modeling, DAX, Power Query)
 
 SQL (Joins, Aggregations, Conditional logic)
@@ -70,7 +70,7 @@ Data Cleaning & Transformation
 
 Data Storytelling & Dashboard Design
 
-##🚀 How to Use This Project
+## 🚀 How to Use This Project
 Clone the repository
 
 Open the .pbix file in Power BI Desktop
@@ -80,7 +80,7 @@ Explore the dashboard and slicers
 Review SQL queries and try replicating them in your DB
 
 
-##📁 Folder Structure
+## 📁 Folder Structure
 
 📁 datasets/
     ├── constituencywise_results.csv
@@ -95,6 +95,6 @@ Review SQL queries and try replicating them in your DB
 📊 dashboard/
     └── India_Election_2024_Dashboard.pbix
 
-##📌 Summary
+## 📌 Summary
 This project demonstrates how raw electoral data can be transformed into actionable insights through SQL querying, data modeling, and Power BI storytelling. It's a strong example of how political data can be analyzed to uncover trends, alliances, and voter behavior across India.
 
