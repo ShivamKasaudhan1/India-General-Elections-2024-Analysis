@@ -15,7 +15,7 @@ The Power BI dashboard includes:
 - ✅ KPI cards showing Total Votes, Seats Contested, NDA Seats, and I.N.D.I.A Seats
 - ✅ Dynamic slicers for filtering by **State**, **Party**, and **Alliance**
 
-🔗 **[Demo Screenshot](#)** *(replace with image or GitHub Pages link)*
+🔗 **[Power BI Dashboard Overview](Election_Dashboard_Preview.png)**
 
 ---
 
@@ -60,6 +60,8 @@ ORDER BY total_seats_won DESC;
 
 📌 All SQL queries were written, tested, and cross-validated with the Power BI dashboard output.
 
+---
+
 
 ## 🧩 Tools & Skills Used
 Power BI (Data modeling, DAX, Power Query)
@@ -70,14 +72,7 @@ Data Cleaning & Transformation
 
 Data Storytelling & Dashboard Design
 
-## 🚀 How to Use This Project
-Clone the repository
-
-Open the .pbix file in Power BI Desktop
-
-Explore the dashboard and slicers
-
-Review SQL queries and try replicating them in your DB
+---
 
 
 ## 📁 Folder Structure
@@ -95,6 +90,38 @@ Review SQL queries and try replicating them in your DB
 📊 dashboard/
     └── India_Election_2024_Dashboard.pbix
 
+---
+
 ## 📌 Summary
 This project demonstrates how raw electoral data can be transformed into actionable insights through SQL querying, data modeling, and Power BI storytelling. It's a strong example of how political data can be analyzed to uncover trends, alliances, and voter behavior across India.
+
+---
+
+## 🚀 How to Use This Project
+Clone the repository
+
+Open the .pbix file in Power BI Desktop
+
+Explore the dashboard and slicers
+
+Review SQL queries and try replicating them in your DB
+
+---
+
+## 📥 Download Power BI Dashboard
+
+If GitHub doesn't support `.pbix` preview, you can [**download the dashboard here**](https://drive.google.com/file/d/1n4o7bvF5CI7euTdDhAae0b5SBCbyInCe/view?usp=sharing).
+
+---
+
+## ✍️ Author
+
+**Shivam Kasaudhan**  
+Aspiring Data Analyst 
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/shivamkasaudhan1/)
+
+
+---
+
 
