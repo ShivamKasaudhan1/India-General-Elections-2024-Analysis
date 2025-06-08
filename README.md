@@ -76,24 +76,24 @@ Data Storytelling & Dashboard Design
 
 ---
 
+## 📁 Project Structure
 
+<pre>
 India-Election-2024-Analysis/
 │
-├── India_Election_2024_Dashboard.pbix       # Power BI dashboard file
-│   
+├── India_Election_2024_Dashboard.pbix            # Power BI dashboard file
 │
-├── 📁 datasets/
+├── datasets/                                      # Raw CSV data files
 │   ├── constituencywise_results.csv
 │   ├── constituencywise_details.csv
 │   ├── partywise_results.csv
 │   ├── statewise_result.csv
 │   └── states.csv
-|
-├── India Elections Result Analysis.docx            # SQL queries and logic    
-|
-├── Election_dashboard_preview.png                 # Dashboard Screenshots                   
-|
-└── README.md                                     # Project overview and instructions   
+│
+├── India Elections Result Analysis.docx           # SQL queries and logic
+├── Election_dashboard_preview.png                 # Dashboard screenshot
+└── README.md                                      # Project overview and instructions
+</pre>
 
 ---
 
