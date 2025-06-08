@@ -15,7 +15,7 @@ The Power BI dashboard includes:
 - ✅ KPI cards showing Total Votes, Seats Contested, NDA Seats, and I.N.D.I.A Seats
 - ✅ Dynamic slicers for filtering by **State**, **Party**, and **Alliance**
 
-🔗 **[Power BI Dashboard Overview](Election_dashboard_preview.png)**
+🔗 **![Power BI Dashboard Overview](Election_dashboard_preview.png)**
 
 ---
 
